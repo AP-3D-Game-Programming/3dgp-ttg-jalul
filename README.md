@@ -26,11 +26,12 @@
 -  Als een aanval gewonnen wordt -> beide kaarten gaan uit het spel. De aanvaller trekt onmiddellijk een nieuwe kaart van de stapel en vult zo zijn hand aan. Op die manier kan een aanvaller blijven doorgaan zolang hij wint.
 -  Als de aanval mislukt -> aanvallende kaart weg + verdedigende kaart blijft zichtbaar.
 -  Wanneer een speler geen aanvalskaarten meer in de hand heeft, moet hij één van zijn verdedigingskaarten in de hand leggen en als aanvalskaart gebruiken. Vanaf dat moment geldt deze kaart volledig als aanvaller en volgen de normale regels. Alleen wanneer dit de laatste verdedigingskaart van de speler is, kan een nieuwe getrokken kaart opnieuw als gedekte verdediger worden ingezet.
-
+- Als alle kaarten in de middenstapel weg zijn -> de gebruikte kaartstapel word geshuffeld en als middenstappel vervangen.
+  
 ### Duels:
 -  hoogste getal wint.
 -  Aas telt als het hoogste getal.
--  harten -> klaver -> ruit -> shoppen -> harten.
+-  harten -> klaver -> ruiten -> schoppen -> harten.
 -  joker is almachtig als aanvaller maar zwakste als verdediger.
 
 ### KaartWaarden
