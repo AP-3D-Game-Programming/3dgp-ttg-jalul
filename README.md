@@ -43,7 +43,7 @@ Een stap-voor-stap tutorial waarin je het normale spelverloop uitlegt. Je legt d
 -  x gelijk spel verdedigende kaart wint?
 -  x bij harten en joker iets anders want anders zijn ze onoverwinnelijk behalve tegen high vunrable
 
-Bijlages
+## Bijlages
 Afbeeldingen en foto's van:
 
 - het speelbord
