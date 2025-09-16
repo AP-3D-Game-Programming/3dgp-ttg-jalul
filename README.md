@@ -3,8 +3,7 @@
 ### Schrijf hier de namen van je team: Jalul
 
 ## korte samenvatting
-Hier schrijf je een korte samenvatting van je spel (1 alinea), met daarin het thema en het doel.
-kaartspel waar je aanvallende en verdedigende kaarten hebt. je kiest zelf welke je sterker wilt maken.
+[Naam van het spel] is een strategisch kaartspel waarin spelers kiezen welke kaarten ze inzetten voor aanval of verdediging. Tijdens de duels bepaalt de waarde en het type wie wint. Het doel is om slim je kaarten te gebruiken en de aanvallen van anderen te overleven, totdat jij als laatste speler overblijft.
 
 ## Materiaal
 
@@ -20,14 +19,13 @@ kaartspel waar je aanvallende en verdedigende kaarten hebt. je kiest zelf welke 
 5.  De speler aan beurt kiest een kaart waarmee hij aanvalt.
 6.  De aangevallen speler draait de aangevallen kaart om.
 7.  Na de uitkomst is het de volgende zijn/haar beurt.
-8.  Na een volledige ronde word 1 iemand overgeslagen zodat iedereen is de ronde begint.
+8.  Aan het begin van elke ronde verschuift de rol van startspeler met de klok mee naar de volgende speler. Zo krijgt iedereen een beurt om de ronde te beginnen.
 9.  Het spel eindigt als 1 iemand overblijft.
 
 ## Spelregels
--  Als de aanval lukt -> beide kaarten weg + aanvallende speler mag een nieuwe kaart pakken van de stapel.
+-  Als een aanval gewonnen wordt -> beide kaarten gaan uit het spel. De aanvaller trekt onmiddellijk een nieuwe kaart van de stapel en vult zo zijn hand aan. Op die manier kan een aanvaller blijven doorgaan zolang hij wint.
 -  Als de aanval mislukt -> aanvallende kaart weg + verdedigende kaart blijft zichtbaar.
--  Als alle aanvallende kaarten van een speler op zijn -> moet die een kaart van zijn verdediging gebruiken om aan te vallen.
--  Als de speler aan zijn laatste verdedigende kaart komt zonder aanvalskaarten in de hand en je wint, word je nieuw getrokken kaart je verdedigende kaart met de zichtkant naar onderen. Verloren aanval is spel gedaan.
+-  Wanneer een speler geen aanvalskaarten meer in de hand heeft, moet hij één van zijn verdedigingskaarten in de hand leggen en als aanvalskaart gebruiken. Vanaf dat moment geldt deze kaart volledig als aanvaller en volgen de normale regels. Alleen wanneer dit de laatste verdedigingskaart van de speler is, kan een nieuwe getrokken kaart opnieuw als gedekte verdediger worden ingezet.
 
 ### Duels:
 -  hoogste getal wint.
@@ -35,11 +33,17 @@ kaartspel waar je aanvallende en verdedigende kaarten hebt. je kiest zelf welke 
 -  harten -> klaver -> ruit -> shoppen -> harten.
 -  joker is almachtig als aanvaller maar zwakste als verdediger.
 
-#### Indien kaart tegen high effective kaart (harten -> klaver) :
+### KaartWaarden
+nummers is kaartwaarden (2-10)
+Boer 11
+Koniging 12
+Koning 13
+Aas 14
+Joker 15 (Aanvaller) / 1 (Verdediger)
+
+#### Indien kaart tegen high effective kaart (Bv. harten -> klaver) :
 ##### Harten krijgt hier ->
 -  Nummer*2
--  Harten aas of joker wint.
--  Gelijk spel -> verdedigende kaart wint.
 
 ## Bijlages
 Afbeeldingen en foto's van:
