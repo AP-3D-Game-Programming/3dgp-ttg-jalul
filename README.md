@@ -7,15 +7,11 @@ Hier schrijf je een korte samenvatting van je spel (1 alinea), met daarin het th
 kaartspel waar je aanvallende en verdedigende kaarten hebt. je kiest zelf welke je sterker wilt maken.
 
 ## Materiaal
-Een opsomming van alle benodigde spel-elementen
 
 - Kaarten
 - Spelregels
 
-x is still deciding
 ## Spelgids
-Een stap-voor-stap tutorial waarin je het normale spelverloop uitlegt. Je legt daarbij ook uit wat de voorwaarden zijn om te winnen.
-
 
 1.  Elke speler krijgt in het begin 10 willekeurige kaarten en de rest van de stapel in het midden.
 2.  Spelers kiezen 5 kaarten die hij/zij voor aanval of verdedeging wilt.
