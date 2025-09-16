@@ -33,6 +33,10 @@
 -  Aas telt als het hoogste getal.
 -  Harten -> Klaver -> Ruiten -> Schoppen -> Harten.
 -  Joker is almachtig als aanvaller maar zwakste als verdediger.
+-  Voorbeeld:
+speler A valt aan met ♠ Koning (13)
+Speler B verdedigt met ♥ Boer (11)
+Resultaat: Schoppen verslaat Harten → Beide kaarten uit het spel → Speler A trekt een nieuwe kaart.
 
 ### Kaartwaarden
 Nummers zijn kaartwaarden (2-10)  
