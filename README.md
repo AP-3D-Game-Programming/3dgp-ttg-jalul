@@ -25,7 +25,7 @@ Een stap-voor-stap tutorial waarin je het normale spelverloop uitlegt. Je legt d
 6.  De aangevallen speler draait de aangevallen kaart om.
 7.  Na de uitkomst is het de volgende zijn/haar beurt.
 8.  Na een volledige ronde word 1 iemand overgeslagen zodat iedereen is de ronde begint.
-9.  Het spel eindigt als alle spelers geen aanvalskaarten meer hebben of 1 iemand overblijft.
+9.  x Het spel eindigt als alle spelers geen aanvalskaarten meer hebben of 1 iemand overblijft.
 
 ## Spelregels
 -  Als de aanval lukt -> beide kaarten weg + aanvallende speler mag een nieuwe kaart pakken van de stapel.
@@ -41,7 +41,7 @@ Een stap-voor-stap tutorial waarin je het normale spelverloop uitlegt. Je legt d
 -  nummer*2
 -  harten aas of joker wint.
 -  x gelijk spel verdedigende kaart wint?
--  bij harten en joker iets anders want anders zijn ze onoverwinnelijk behalve tegen high vunrable
+-  x bij harten en joker iets anders want anders zijn ze onoverwinnelijk behalve tegen high vunrable
 
 Bijlages
 Afbeeldingen en foto's van:
