@@ -1,3 +1,6 @@
+# Nog te doen:
+- soms kan een persoon overblijven
+
 # Naam van het spel:
 ### Ontwikkelaars: Nick Reul, Sam Van Ginderen, Viktor Van Deun, Jalil Tchatikpi
 ### Schrijf hier de namen van je team: Jalul
@@ -9,6 +12,7 @@
 
 - Kaarten
 - Spelregels
+- Aanval Tokens
 
 ## Spelgids
 
