@@ -1,9 +1,10 @@
-# Naam van het spel: ~~Jalullen~~
+# Naam van het spel: Jalullen
 ### Ontwikkelaars: Nick Reul, Sam Van Ginderen, Viktor Van Deun, Jalil Tchatikpi
 ### Schrijf hier de namen van je team: Jalul
+### Aantal aangeraden spelers: 4
 
 ## Korte samenvatting
-[Naam van het spel] is een strategisch kaartspel waarin spelers kiezen welke kaarten ze inzetten voor aanval of verdediging. Tijdens de duels bepaalt de waarde en het type wie wint. Het doel is om slim je kaarten te gebruiken en de aanvallen van anderen te overleven, totdat jij als laatste speler overblijft.
+Jalullen is een strategisch kaartspel waarin spelers kiezen welke kaarten ze inzetten voor aanval of verdediging. Tijdens de duels bepaalt de waarde en het type wie wint. Het doel is om slim je kaarten te gebruiken en de aanvallen van anderen te overleven, totdat jij als laatste speler overblijft.
 
 ## Materiaal
 
