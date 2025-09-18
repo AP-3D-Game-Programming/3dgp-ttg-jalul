@@ -1,7 +1,4 @@
-# Nog te doen:
-- soms kan een persoon overblijven
-
-# Naam van het spel:
+# Naam van het spel: **Jalullen**
 ### Ontwikkelaars: Nick Reul, Sam Van Ginderen, Viktor Van Deun, Jalil Tchatikpi
 ### Schrijf hier de namen van je team: Jalul
 
@@ -31,6 +28,7 @@
 -  Als de aanval mislukt -> aanvallende kaart weg + verdedigende kaart blijft zichtbaar liggen.
 -  Wanneer een speler geen aanvalskaarten meer in de hand heeft, moet hij één van zijn verdedigingskaarten in de hand leggen en als aanvalskaart gebruiken. Vanaf dat moment geldt deze kaart volledig als aanvaller en volgen de normale regels. Alleen wanneer dit de laatste verdedigingskaart van de speler is, kan een nieuwe getrokken kaart opnieuw als gedekte verdediger worden ingezet.
 -  Als alle kaarten in de middenstapel weg zijn -> de gebruikte kaartstapel wordt geschud en als middenstapel vervangen.
+-  De voorlaatste persoon moet er voor zorgen dat iedereen aan beurt kan komen en niemand "zichzelf moet aanvallen".
   
 ### Duels:
 -  Hoogste getal wint.
