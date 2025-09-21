@@ -10,7 +10,8 @@ Jalullen is een strategisch kaartspel waarin spelers kiezen welke kaarten ze inz
 
 - Kaarten
 - Spelregels
-- Aanval Tokens
+- Aanval tokens
+- Startspeler token
 
 ## Spelgids
 
@@ -34,6 +35,7 @@ Jalullen is een strategisch kaartspel waarin spelers kiezen welke kaarten ze inz
   
 ### Duels:
 -  Hoogste getal wint.
+-  Bij gelijk spel, wint de verdediger.
 -  Aas telt als het hoogste getal.
 -  Harten -> Klaver -> Ruiten -> Schoppen -> Harten.
 -  Joker is almachtig als aanvaller maar zwakste als verdediger.
