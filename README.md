@@ -27,8 +27,9 @@ Jalullen is een strategisch kaartspel waarin spelers kiezen welke kaarten ze inz
 ## Spelregels
 -  Als een aanval wint -> beide kaarten op dodenstapel. Aanvaller moet een nieuwe kaart pakken. Op die manier kan een aanvaller blijven doorgaan zolang hij wint.
 -  Als de aanval mislukt -> aanvalkaart weg + verdedigende kaart blijft zichtbaar liggen. Geen nieuwe kaart pakken.
--  Wanneer een speler geen aanvalskaarten meer in de hand heeft, moet hij één van zijn verdedigingskaarten in de hand leggen en als aanvalskaart gebruiken. Vanaf dat moment geldt deze kaart volledig als aanvaller en volgen de normale regels. Alleen wanneer dit de laatste verdedigingskaart van de speler is, kan een nieuwe getrokken kaart opnieuw als gedekte verdediger worden ingezet.
--  Als alle kaarten in de middenstapel weg zijn -> de gebruikte kaartstapel wordt geschud en als middenstapel vervangen.
+-  Wanneer een speler geen aanvalskaarten meer heeft, moet hij één van zijn verdedigingskaarten als aanvalskaart gebruiken. Vanaf dat moment geldt deze kaart volledig als aanvaller en volgen de aanval regels.
+-  Je mag geen aanvalskaart naar de verdediging zetten. Enkel wanneer je op je laatste verdedigingskaart zit en die als aanvaller moet gebruiken mag je een gewonnen aanvalskaart opnieuw als verdediging zetten.
+-  Als alle kaarten in de middenstapel weg zijn -> de dodenstapel wordt geschud en als middenstapel vervangen.
 -  De voorlaatste persoon moet er voor zorgen dat iedereen aan beurt kan komen en niemand "zichzelf moet aanvallen".
   
 ### Duels:
