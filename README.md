@@ -57,8 +57,4 @@ Joker = 15 (Aanvaller) / 1 (Verdediger)
 -  Nummer * 2
 
 ## Bijlages
-Afbeeldingen en foto's van:
-
-- Het speelbord
-- Een 'normale' setup aan het begin van het spel
-- Een voorbeeld van een speler die gewonnen is
+Bijlages in de gitrepo.
