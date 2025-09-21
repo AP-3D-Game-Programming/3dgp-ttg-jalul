@@ -22,7 +22,7 @@ Jalullen is een strategisch kaartspel waarin spelers kiezen welke kaarten ze inz
 5.  De speler aan de beurt kiest een kaart waarmee hij aanvalt.
 6.  De aangevallen speler draait de aangevallen kaart om.
 7.  Na de uitkomst is het de volgende zijn/haar beurt.
-8.  Aan het begin van elke ronde verschuift de rol van startspeler met de klok mee naar de volgende speler. Zo krijgt iedereen een beurt om de ronde te beginnen.
+8.  Aan het begin van elke ronde verschuift de rol van startspeler met de klok mee naar de volgende speler, wanneer dit onduidelijk is gebruik de Startspeler token. Zo krijgt iedereen een beurt om de ronde te beginnen.
 9.  Het spel eindigt als 1 iemand overblijft.
 
 ## Spelregels
