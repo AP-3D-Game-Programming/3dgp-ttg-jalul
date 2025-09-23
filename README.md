@@ -1,5 +1,5 @@
 # Naam van het spel: _Jalullen_
-### Ontwikkelaars: Nick Reul, Sam Van Ginderen, Viktor Van Deun, Jalil Tchatikpi
+### Ontwikkelaars: Nick Reul, Sam Van Ginderen, Viktor Van Deun, Jalil Tchatikpi, Serhat Sayar
 ### Schrijf hier de namen van je team: Jalul
 ### Aantal aangeraden spelers: 4
 
