@@ -21,7 +21,7 @@ Created by: Nick Reul, Sam Van Ginderen, Jalil Tchatikpi, Viktor Van Deun, Serha
  6. HAVE FUN!!!!
 
 ## Spelregels
- 1. 2 mensen werken samen en zijn 1 team, elk team heeft 2 torens, de gans werkt alleen en moet de torens kapot maken.
+ 1. 2 mensen werken samen en zijn 1 team, elk team heeft 2 torens, de gans werkt alleen en moet alle torens kapot maken.
  2. Elk team kan kiezen om een loper van de gans te pakken of om het andere team kapot te maken.
  3. De torens zijn je levens. De gans is pas buitenspel als alle 4 de lopers dood zijn.
  4. De pionnen kunnen enkel 1 stap per keer zetten en enkel verticaal en horizontaal.
