@@ -1,18 +1,18 @@
-#BattleGoose
+# BattleGoose
 Created by: Nick Reul, Sam Van Ginderen, Jalil Tchatikpi, Viktor Van Deun, Serhat Sayar
 
-##Korte samenvatting
+## Korte samenvatting
 5 mensen, 4 torens, 1 gans
 
-##Materiaal
- -schaakbord
- -4 torens
- -4 lopers
- -1 gans
- -12 pionnen
- -timer
+## Materiaal
+ - schaakbord
+ - 4 torens
+ - 4 lopers
+ - 1 gans
+ - 12 pionnen
+ - timer
 
-##Spelgids
+## Spelgids
  1. Schaar, steen, papier bepaald wie er begint
  2. Zet de torens in de uiterste hoeken van het bord en de gans in het midden(niet in een vierkant).
  3. De pionen komen rond de toren te staan (3 pionnen). De lopers rond de gans. (Zie foto beginpositie).
@@ -20,7 +20,7 @@ Created by: Nick Reul, Sam Van Ginderen, Jalil Tchatikpi, Viktor Van Deun, Serha
  5. Het spel is gedaan als er geen torens of geen lopers meer zijn.
  6. HAVE FUN!!!!
 
-##Spelregels
+## Spelregels
  1. 2 mensen werken samen en zijn 1 team, elk team heeft 2 torens, de gans werkt alleen en moet de torens kapot maken.
  2. Elk team kan kiezen om een loper van de gans te pakken of om het andere team kapot te maken.
  3. De torens zijn je levens. De gans is pas buitenspel als alle 4 de lopers dood zijn.
