@@ -21,15 +21,15 @@ Created by: Nick Reul, Sam Van Ginderen, Jalil Tchatikpi, Viktor Van Deun, Serha
  6. HAVE FUN!!!!
 
 ## Spelregels
- 1. 2 mensen werken samen en zijn 1 team, elk team heeft 2 torens, de gans werkt alleen en moet alle torens kapot maken.
- 2. Elk team kan kiezen om een loper van de gans te pakken of om het andere team kapot te maken.
- 3. De torens zijn je levens. De gans is pas buitenspel als alle 4 de lopers dood zijn.
- 4. De pionnen kunnen enkel 1 stap per keer zetten en enkel verticaal en horizontaal.
- 5. De lopers kunnen enkel diagonaal maar mogen zo ver mogelijk gaan in 1 rechte lijn.
- 6. De torens kunnen niet bewegen.
- 7. In een 2x2 vierkant rond de gans en de torens is er een kill zone. Als je daarin komt, gaat je pion of loper dood. De lopers kunnen natuurlijk in de killzone van de gans en de pionnen in de killzone van hun eigen team.
- 8. Wanneer een loper dus een toren wilt vermoorden moet die zo spelen dat hij rechtstreeks een toren kan raken, als die de toren doodt verdwijnt die killzone.
- 9. Elk team heeft 2 beurten. Ze kunnen die 2 beurten combineren om met 1 pion 2 stappen te zetten.
- 10. De gans heeft maar 1 beurt.
- 11. Wanneer de 2 torens van 1 team dood zijn ligt dat team uit het spel.
- 12. Wanneer jouw toren dood is kun je nog steeds je pionnen gebruiken. Je mag ook altijd de pionnen van je teamgenoot gebruiken.
+ - 2 mensen werken samen en zijn 1 team, elk team heeft 2 torens, de gans werkt alleen en moet alle torens kapot maken.
+ - Elk team kan kiezen om een loper van de gans te pakken of om het andere team kapot te maken.
+ - De torens zijn je levens. De gans is pas buitenspel als alle 4 de lopers dood zijn.
+ - De pionnen kunnen enkel 1 stap per keer zetten en enkel verticaal en horizontaal.
+ - De lopers kunnen enkel diagonaal maar mogen zo ver mogelijk gaan in 1 rechte lijn.
+ - De torens kunnen niet bewegen.
+ - In een 2x2 vierkant rond de gans en de torens is er een kill zone. Als je daarin komt, gaat je pion of loper dood. De lopers kunnen natuurlijk in de killzone van de gans en de pionnen in de killzone van hun eigen team.
+ - Wanneer een loper dus een toren wilt vermoorden moet die zo spelen dat hij rechtstreeks een toren kan raken, als die de toren doodt verdwijnt die killzone.
+ - Elk team heeft 2 beurten. Ze kunnen die 2 beurten combineren om met 1 pion 2 stappen te zetten.
+ - De gans heeft maar 1 beurt.
+ - Wanneer de 2 torens van 1 team dood zijn ligt dat team uit het spel.
+ - Wanneer jouw toren dood is kun je nog steeds je pionnen gebruiken. Je mag ook altijd de pionnen van je teamgenoot gebruiken.
