@@ -24,7 +24,7 @@ Created by: Nick Reul, Sam Van Ginderen, Jalil Tchatikpi, Viktor Van Deun, Serha
  - De teams tellen 2 spelers, elk team heeft 2 torens, de gans werkt alleen.
  - 1 toren dood is verloren, dus zie dat je ze beide goed verdedigt.
  - Elk team kan kiezen om een loper van de gans te pakken of om het andere team kapot te maken.
- - De gans is pas buitenspel als 2 lopers dood zijn.
+ - De gans is pas buitenspel als 4 lopers dood zijn.
  - De pionnen kunnen enkel 1 stap per keer zetten en enkel verticaal en horizontaal.
  - De lopers kunnen enkel diagonaal maar mogen zo ver mogelijk gaan in 1 rechte lijn.
  - De torens kunnen niet bewegen.
