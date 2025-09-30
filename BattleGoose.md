@@ -21,8 +21,8 @@ Created by: Nick Reul, Sam Van Ginderen, Jalil Tchatikpi, Viktor Van Deun, Serha
  6. HAVE FUN!!!!
 
 ## Spelregels
- - De teams tellen 2 spelers, elk team heeft 2 torens, de gans werkt alleen.
- - 1 toren dood is verloren, dus zie dat je ze beide goed verdedigt.
+ - De teams tellen 2 spelers, elk team heeft 2 torens en 6 pionnen, de gans is alleen en werkt alleen met 4 lopers.
+ - 2 toren dood is verloren, dus zie dat je ze beide goed verdedigt.
  - Elk team kan kiezen om een loper van de gans te pakken of om het andere team kapot te maken.
  - De gans is pas buitenspel als 4 lopers dood zijn.
  - De pionnen kunnen enkel 1 stap per keer zetten en enkel verticaal en horizontaal.
